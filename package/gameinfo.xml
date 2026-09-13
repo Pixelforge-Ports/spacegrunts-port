@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Space Grunts.sh</path>
+    <name>Space Grunts</name>
+    <desc>Explore hostile space facilities and use weapons and items in turn-based tactical battles.</desc>
+    <releasedate>20160112T000000</releasedate>
+    <developer>Orangepixel</developer>
+    <publisher>Orangepixel / THQ Nordic Mobile GmbH</publisher>
+    <genre>Rpg</genre>
+    <image>./spacegrunts/screenshot.png</image>
+  </game>
+</gameList>

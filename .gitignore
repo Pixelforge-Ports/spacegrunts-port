@@ -1,0 +1,21 @@
+build/
+dist/
+package/spacegrunts/spacegrunts.dat
+package/spacegrunts/runtime/*.jar
+package/spacegrunts/saves/
+package/spacegrunts/cache/
+package/spacegrunts/resolution.txt
+package/spacegrunts/log.txt
+__pycache__/
+*.pyc
+
+# Generated/private content
+ports/
+build/
+dist/
+package/spacegrunts/spacegrunts.dat
+package/spacegrunts/runtime/*-host.jar
+package/spacegrunts/saves/
+package/spacegrunts/cache/
+package/spacegrunts/log.txt
+package/spacegrunts/resolution.txt

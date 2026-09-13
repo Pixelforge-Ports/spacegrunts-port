@@ -1,0 +1,9 @@
+{
+  "id": "spacegrunts",
+  "title": "Space Grunts",
+  "script": "Space Grunts.sh",
+  "zip": "SpaceGrunts.zip",
+  "game_file": "spacegrunts.dat",
+  "mapping": "spacegrunts.ini",
+  "runtime_libraries": false
+}

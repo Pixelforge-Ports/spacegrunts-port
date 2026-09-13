@@ -1,0 +1,43 @@
+{
+  "version": 4,
+  "name": "spacegrunts.zip",
+  "items": [
+    "Space Grunts.sh",
+    "spacegrunts"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Space Grunts",
+    "porter": [
+      "Pixelforge ports (Ronax)"
+    ],
+    "desc": "Explore hostile space facilities and use weapons and items in turn-based tactical battles.",
+    "desc_md": null,
+    "inst": "Install SpaceGrunts.zip, then copy your owned spacegrunts.dat into the installed spacegrunts folder. See spacegrunts.md for supported files and installation steps. Requires compatible 64-bit ARM firmware and PortMaster Java 17 and Westonpack runtimes.",
+    "inst_md": null,
+    "genres": [
+      "rpg",
+      "strategy"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [
+      "weston_pkg_0.2.squashfs",
+      "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+    ],
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": "2.27",
+    "availability": "paid",
+    "store": [
+      {
+        "name": "GOG",
+        "gameurl": "https://www.gog.com/en/game/space_grunts",
+        "developerurl": "https://orangepixel.net/"
+      }
+    ]
+  }
+}
